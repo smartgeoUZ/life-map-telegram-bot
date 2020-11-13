@@ -1,0 +1,7 @@
+{
+  "EXTERNAL_WEBHOOK_URL": "YOUR_WEBHOOK_URL",
+  "INTERNAL_WEBHOOK_URL": "http://192.168.1.13:",
+  "INTERNAL_WEBHOOK_PORT": 8778,
+  "MODE": "dev",
+  "MODE2": "prod"
+}

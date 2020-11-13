@@ -1,0 +1,24 @@
+{
+  "server.port": 8779,
+  "server.host": "192.168.1.106",
+  "socket.timeout": 30000,
+  "enable.http.compression": true,
+
+  "db": {
+    "url": "jdbc:postgresql://89.236.213.120:5432/life_map",
+    "host": "89.236.213.120",
+    "port": 5432,
+    "username": "lifemap",
+    "password": "lifemap123456+",
+    "database": "life_map",
+    "charset": "UTF-8",
+    "queryTimeout": 10000,
+    "driver2": "org.postgresql.Driver",
+    "driver": "org.postgresql.Driver",
+    "controllerDB": "com.mysql.cj.jdbc.Driver",
+    "maxPoolSize": 30,
+    "datasource": "pgDataSource"
+  },
+  "nominatim.url": "https://nominatim.openstreetmap.org/reverse.php",
+  "lifemap.url": "http://127.0.0.1/"
+}

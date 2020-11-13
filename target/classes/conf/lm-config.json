@@ -1,0 +1,8 @@
+{
+  "server.port": 8083,
+  "server.host": "192.168.1.13",
+  "server.host_sync": "http://192.168.1.13",
+  "socket.timeout": 30000,
+  "enable.http.compression": true,
+  "vertx.development.mode": true
+}

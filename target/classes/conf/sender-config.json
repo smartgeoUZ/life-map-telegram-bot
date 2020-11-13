@@ -1,0 +1,6 @@
+{
+  "server.host": "api.telegram.org",
+  "socket.timeout": 30000,
+  "enable.http.compression": true,
+  "vertx.development.mode": true
+}
