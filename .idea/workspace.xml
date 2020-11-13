@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f45ff34-25ae-491b-a1a0-9851ccd6635a" name="Default Changelist" comment="Fix complaint notification text v2" />
-    <list id="a0566482-13d3-4f01-9ea0-c9f0b431848d" name="deleted" comment="deleted" />
+    <list default="true" id="2f45ff34-25ae-491b-a1a0-9851ccd6635a" name="Default Changelist" comment="" />
+    <list id="a0566482-13d3-4f01-9ea0-c9f0b431848d" name="deleted" comment="deleted">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -305,7 +307,7 @@
       <workItem from="1602079362259" duration="607000" />
       <workItem from="1605278228505" duration="14000" />
       <workItem from="1605278270810" duration="218000" />
-      <workItem from="1605278495088" duration="76000" />
+      <workItem from="1605278495088" duration="719000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1589366883506</created>
@@ -594,7 +596,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602052963403</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Version 2.0">
+      <created>1605278889366</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1605278889366</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Change readme file">
+      <created>1605279209142</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1605279209142</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -623,8 +639,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Event moderation status" />
-    <MESSAGE value="Add user communication response, Add response after send message to user" />
     <MESSAGE value="Code refactoring" />
     <MESSAGE value="Code refactoring v2" />
     <MESSAGE value="test v1" />
@@ -648,7 +662,9 @@
     <MESSAGE value="Task https://redmine.smartgeo.uz/issues/177?issue_count=4&amp;issue_position=2&amp;next_issue_id=223&amp;prev_issue_id=194 - 4.2 Модерирование события через Телеграм-бот v2" />
     <MESSAGE value="Fix complaint notification text" />
     <MESSAGE value="Fix complaint notification text v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix complaint notification text v2" />
+    <MESSAGE value="Version 2.0" />
+    <MESSAGE value="Change readme file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change readme file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="183" key="#Auto_Import" timestamp="1595833300092">
